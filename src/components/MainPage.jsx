@@ -45,8 +45,7 @@ const Main = ({themeToggler}) => {
     }
 
     React.useEffect(() => {
-        dispatch(fetchCouncls
-        tries());
+        dispatch(fetchCountries());
     }, []);
 
 
