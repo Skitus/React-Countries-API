@@ -6,6 +6,7 @@
 * React-redux (redux-thunk)
 * Styled components
 * Axios
+* SCSS
 
 ## О проекте
 
